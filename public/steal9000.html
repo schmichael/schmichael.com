@@ -1,0 +1,23 @@
+<html>
+<body style="background-image: url(http://37.media.tumblr.com/32cadf0bcd9292b3ebbc62bd1bf256d4/tumblr_ms75ykW2js1sp7xx2o1_500.gif)">
+</body>
+<script>
+var lol = function() {
+        var voices = speechSynthesis.getVoices()
+        var maxVoices = voices.length
+        var utterance = new SpeechSynthesisUtterance("I will steal your soul...")
+ 
+        utterance.rate = 0.1
+        utterance.pitch = 0
+        utterance.voice = voices[Math.floor(Math.random() * (maxVoices + 1))]
+ 
+        speechSynthesis.speak(utterance);
+ 
+        setTimeout(lol, 2*1000);
+}
+ 
+window.speechSynthesis.onvoiceschanged = function() {
+        lol();
+}
+</script>
+</html>
