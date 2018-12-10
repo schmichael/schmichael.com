@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/schmichael
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://schmichael.com
+  * I am schmichael (https://keybase.io/schmichael) on keybase.
+  * I have a public key ASBAYwljrf7J9D5c9jjEltQKW4Sgehc8CDe2LNxaZeYF9wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012040630963adfec9f43e5cf638c496d40a5b84a07a173c0837b62cdc5a65e605f70a",
+      "host": "keybase.io",
+      "kid": "012040630963adfec9f43e5cf638c496d40a5b84a07a173c0837b62cdc5a65e605f70a",
+      "uid": "dfc735f9aef028b2bcd366189f1dc100",
+      "username": "schmichael"
+    },
+    "merkle_root": {
+      "ctime": 1544484396,
+      "hash": "5d9cb785ce00568c7a9ec1e3b5a33fb14e04d8fc1f95f39bc0cbdbc0389b392731eeceb85b39a8be28e7af50f967a72409146a3f99104ac244b0d273856acd28",
+      "hash_meta": "d1faa1f154352f7f1fc1f487512abfb26b704e4d444f71c3016ae8bbe6feb886",
+      "seqno": 4088067
+    },
+    "service": {
+      "entropy": "/TCOn1DSOW2ZFEAxo8BONL9I",
+      "hostname": "schmichael.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1544484594,
+  "expire_in": 504576000,
+  "prev": "b4b9fdea6ec4fbc0401e40770c2ea8aab4b84d7f94ae341962135dc416755de2",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQGMJY63+yfQ+XPY4xJbUCluEoHoXPAg3tizcWmXmBfcKp3BheWxvYWTESpcCD8QgtLn96m7E+8BAHkB3DC6oqrS4TX+UrjQZYhNdxBZ1XeLEIG+ESl3V4pw96mvomlzpd9hKPvdfTodrBbcWbSg972FPAgHCo3NpZ8RAHMyc/Moq4qy+KQbkGzgxeJ375Bx67nu1D19Cv9quXJ3py5R1Obek8IP4DMDONfWWgSewSEuX13JicsTaFpykD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPrQI61LE4PgUgshiXqcj99Ya8++kasYrOoou9QmbT/mo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/schmichael
+
+==================================================================
